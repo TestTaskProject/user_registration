@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="593774d5-be74-4d72-82a8-6a43609fea62" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJ3CBD3EExeaBiRST6wJbvuqy2" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MARYNA_IdeaProjects/practice_amway_framework" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Maryna\User_Registration_Test_Task\src\main\resources" />
+      <recent name="D:\Maryna\User_Registration_Test_Task\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Maryna/User_Registration_Test_Task/TestNG.xml">
+    <configuration name="D:/Maryna/User_Registration_Test_Task/TestNG.xml" type="TestNG" nameIsGenerated="true">
+      <module name="User_Registration_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hitwe_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProfilePage.getUserData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="User_Registration_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="page_object.hitwe_pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="page_object.hitwe_pages" />
+      <option name="MAIN_CLASS_NAME" value="page_object.hitwe_pages.ProfilePage" />
+      <option name="METHOD_NAME" value="getUserData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationFunctionalityTestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="User_Registration_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hitwe_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hitwe_tests" />
+      <option name="MAIN_CLASS_NAME" value="hitwe_tests.RegistrationFunctionalityTestSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationFunctionalityTestSuite.uploadProfileImageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="User_Registration_Test_Task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hitwe_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hitwe_tests" />
+      <option name="MAIN_CLASS_NAME" value="hitwe_tests.RegistrationFunctionalityTestSuite" />
+      <option name="METHOD_NAME" value="uploadProfileImageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.D:/Maryna/User_Registration_Test_Task/TestNG.xml" />
+      <item itemvalue="TestNG.RegistrationFunctionalityTestSuite" />
+      <item itemvalue="TestNG.ProfilePage.getUserData" />
+      <item itemvalue="TestNG.RegistrationFunctionalityTestSuite.uploadProfileImageTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationFunctionalityTestSuite" />
+        <item itemvalue="TestNG.RegistrationFunctionalityTestSuite.uploadProfileImageTest" />
+        <item itemvalue="TestNG.ProfilePage.getUserData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="593774d5-be74-4d72-82a8-6a43609fea62" name="Default Changelist" comment="" />
+      <created>1584543239525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584543239525</updated>
+    </task>
+    <servers />
+  </component>
+</project>

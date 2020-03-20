@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Registration Functionality Test Suite">
+    <test name="User Registration">
+        <parameter name="chromeBrowser" value="chrome"/>
+        <parameter name="firefoxBrowser" value="firefox"/>
+        <parameter name="sex" value="Девушки"/>
+        <parameter name="hair" value="Темные"/>
+        <parameter name="eyes" value="Светлые"/>
+        <parameter name="body" value="Стройная"/>
+        <parameter name="name" value="Test"/>
+        <parameter name="gender" value="Парень"/>
+        <parameter name="age" value="25"/>
+        <classes>
+            <class name="hitwe_tests.RegistrationFunctionalityTestSuite"/>
+        </classes>
+    </test>
+</suite>
+
